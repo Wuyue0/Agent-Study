@@ -17,10 +17,13 @@
   },
   "homepage": "https://github.com/Wuyue0/Agent-Study#readme",
   "dependencies": {
-    "openai": "^7.50.0"
+    "dotenv": "^18.0.9",
+    "openai": "^7.50.0",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@types/node": "^26.6.6",
-    "tsx": "^4.23.15"
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
   }
 }
