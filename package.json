@@ -1,0 +1,26 @@
+{
+  "name": "agent-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx --env-file=.env index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wuyue0/Agent-Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wuyue0/Agent-Study/issues"
+  },
+  "homepage": "https://github.com/Wuyue0/Agent-Study#readme",
+  "dependencies": {
+    "openai": "^7.50.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15"
+  }
+}
